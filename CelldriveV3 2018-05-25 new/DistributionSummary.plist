@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CelldriveV3.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>6FA2E7D372BDC3B2934FE92F701D1C55E55F2419</string>
+				<key>dateExpires</key>
+				<string>3/14/19</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6FA2E7D372BDC3B2934FE92F701D1C55E55F2419</string>
+						<key>dateExpires</key>
+						<string>3/14/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>GoogleToolboxForMac.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>523MPMP64U</string>
+						<key>name</key>
+						<string>Kalaiselvi Krishnan</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6FA2E7D372BDC3B2934FE92F701D1C55E55F2419</string>
+						<key>dateExpires</key>
+						<string>3/14/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Protobuf.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>523MPMP64U</string>
+						<key>name</key>
+						<string>Kalaiselvi Krishnan</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>6FA2E7D372BDC3B2934FE92F701D1C55E55F2419</string>
+						<key>dateExpires</key>
+						<string>3/14/19</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>nanopb.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>523MPMP64U</string>
+						<key>name</key>
+						<string>Kalaiselvi Krishnan</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>523MPMP64U.code.CelldriveV3</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>523MPMP64U</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>CelldriveV3.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>f0ea407b-31ab-4eaa-8fc6-1e6d802c8976</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: code.CelldriveV3</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>523MPMP64U</string>
+				<key>name</key>
+				<string>Kalaiselvi Krishnan</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
